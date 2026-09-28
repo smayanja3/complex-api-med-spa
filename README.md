@@ -45,7 +45,7 @@ Instead of spending an entire appointment scrolling through a phone, clients can
 
 ## 📸 Project Preview
 
-![Med Spa Book Recommendation App](ADD-YOUR-IMAGE-PATH-HERE)
+![Med Spa Book Recommendation App](medSpa.png)
 
 ---
 
